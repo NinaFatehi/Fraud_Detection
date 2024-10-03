@@ -18,3 +18,4 @@ Thumbs.db  # Windows
 
 # Ignore virtual environment folder
 venv/
+codes/.ipynb_checkpoints/
