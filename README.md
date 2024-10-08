@@ -4,7 +4,7 @@
 
 It is important that credit card companies can recognize fraudulent credit card transactions so that
 customers are not charged for items that they did not purchase.
-Machine learning algorithms become increasingly widespread in anomaly detection field. Both supervised and unsupervised algorithms depending on the application can be utilized to detect the anomaly action. In this paper we investigate both supervised and unsupervised algorithms for anomaly detection, build two algorithms (LOF and random forest) and test them on a real dataset associated with credit cards fraudulent transactions. Our results show that random forest (supervised) performance in terms of accuracy and F1 score is superior to that of LOF (unsupervised) algorithm.
+Machine learning algorithms become increasingly widespread in anomaly detection field. Both supervised and unsupervised algorithms depending on the application can be utilized to detect the anomaly action. In this work, we investigate both supervised and unsupervised algorithms for anomaly detection, build two algorithms (LOF and random forest) and test them on a real dataset associated with credit cards fraudulent transactions. Our results show that random forest (supervised) performance in terms of accuracy and F1 score is superior to that of LOF (unsupervised) algorithm.
 
 **Dataset**
 The data set is published at: https://www.kaggle.com/mlg-ulb/creditcardfraud
