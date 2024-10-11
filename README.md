@@ -1,4 +1,4 @@
-# Fruad_Detection
+# Fraud_Detection
 
 **Problem Statement**
 
